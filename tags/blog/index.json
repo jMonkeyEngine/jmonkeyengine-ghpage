@@ -1,0 +1,307 @@
+{
+    "responseTitle":"jMonkeyEngine  | blog",
+    "apiVersion":"1.0",
+    "response":"articlesByTag",
+  
+
+
+
+
+    "prev":"",
+
+
+    "next":"",
+
+
+
+"articles":[
+
+    
+    {
+     
+        "date":"2021-03-11 18:00:00 +0000 UTC",
+        
+        "url":"https://jmonkeyengine.org/blog/interview-adibarda/",
+        "jsonUrl":"https://jmonkeyengine.org/blog/interview-adibarda/index.json",
+        "title":"Sgold interviews Adi Barda",
+        "uid":"85bf824777a372f522327c4f863ec5a4",
+
+       
+        "summary":"stephengold          When, where, and how did you first become aware of JMonkeyEngine?\nWhat got you interested in using it?\n SceneMax3D          Back in 2018, I decided to create a 3-D animation development environment\nthat would run on Android devices.\nI went looking for a 3-D Java library"   ,
+        
+      
+        "tags":[
+        
+             
+             "interview"
+        
+              , 
+             "blog"
+        
+        ],
+        "authors":[
+            
+                 
+                 "stephengold"
+            
+            ]
+
+    }
+
+     , 
+    {
+     
+        "date":"2020-12-12 08:00:00 +0000 UTC",
+        
+        "url":"https://jmonkeyengine.org/tutorials/greg-tutorials/greg-tutorials-first-scene/",
+        "jsonUrl":"https://jmonkeyengine.org/tutorials/greg-tutorials/greg-tutorials-first-scene/index.json",
+        "title":"Greg's Tutorial 02 - First Scene",
+        "uid":"200e5729fa02f52b1ad6fcc6e5179225",
+
+       
+        "summary":"In this second part, we will learn how to import a model, how to use the scene composer and the terrain editor, as well as adding a sky and lights.\n  Follow the serie at #gregstutorials"   ,
+        
+      
+        "tags":[
+        
+             
+             "tutorials"
+        
+              , 
+             "gregstutorials"
+        
+              , 
+             "blog"
+        
+        ],
+        "authors":[
+            
+                 
+                 "XIII-code"
+            
+            ]
+
+    }
+
+     , 
+    {
+     
+        "date":"2020-12-04 08:00:00 +0000 UTC",
+        
+        "url":"https://jmonkeyengine.org/tutorials/greg-tutorials/greg-tutorials-getting-started/",
+        "jsonUrl":"https://jmonkeyengine.org/tutorials/greg-tutorials/greg-tutorials-getting-started/index.json",
+        "title":"Greg's Tutorial 01 - Getting Started",
+        "uid":"413dfb5be11d2b07c633d1fac5b9b671",
+
+       
+        "summary":"Here\u0026rsquo;s a new tutorial serie about jMonkeyEngine that i\u0026rsquo;m using for one of my games.\n  Follow the serie at #gregstutorials"   ,
+        
+      
+        "tags":[
+        
+             
+             "gregstutorials"
+        
+              , 
+             "tutorials"
+        
+              , 
+             "blog"
+        
+        ],
+        "authors":[
+            
+                 
+                 "XIII-code"
+            
+            ]
+
+    }
+
+     , 
+    {
+     
+        "date":"2020-02-25 18:00:00 +0000 UTC",
+        
+        "url":"https://jmonkeyengine.org/blog/interview-danielp/",
+        "jsonUrl":"https://jmonkeyengine.org/blog/interview-danielp/index.json",
+        "title":"Sgold interviews Daniel Perano",
+        "uid":"650b77822713f2fa2b9c87fe7c05dc53",
+
+       
+        "summary":"stephengold          Thank you for agreeing to be interviewed.\nFirst question: Do you remember when you first encountered JMonkeyEngine?\nWhat was your first impression?\n danielperano          I started learning jME back in the 3.0 days, as I recall,\nand I was impressed with the features it offered."   ,
+        
+      
+        "tags":[
+        
+             
+             "interview"
+        
+              , 
+             "blog"
+        
+        ],
+        "authors":[
+            
+                 
+                 "stephengold"
+            
+            ]
+
+    }
+
+     , 
+    {
+     
+        "date":"2020-02-15 12:00:00 +0000 UTC",
+        
+        "url":"https://jmonkeyengine.org/blog/interview-jayfella/",
+        "jsonUrl":"https://jmonkeyengine.org/blog/interview-jayfella/index.json",
+        "title":"Sgold interviews Jayfella",
+        "uid":"9550e436efed613eefbe0d086be4c02a",
+
+       
+        "summary":"stephengold          Thank you for agreeing to be interviewed.\nFirst question: When did you first hear about JMonkeyEngine?\n jayfella          Way back in 2014, after a long period of developing desktop applications,\nservers, and minecraft plugins, I decided to look into writing games."   ,
+        
+      
+        "tags":[
+        
+             
+             "interview"
+        
+              , 
+             "blog"
+        
+        ],
+        "authors":[
+            
+                 
+                 "stephengold"
+            
+            ]
+
+    }
+
+     , 
+    {
+     
+        "date":"2020-02-09 08:00:00 +0000 UTC",
+        
+        "url":"https://jmonkeyengine.org/blog/minie14/",
+        "jsonUrl":"https://jmonkeyengine.org/blog/minie14/index.json",
+        "title":"Minie Physics Library Version 1.4 Released!",
+        "uid":"b76eba7dda28f9a70d3296d66d9a0fbc",
+
+       
+        "summary":"Minie version 1.4 is an exciting new add-on for the JMonkeyEngine (JME) game engine.\n  Minie provides an open-source physics engine for desktop games. It gives software developers using JME access to the proven technology of the Bullet Physics SDK version 2.89,\nincluding:\n rigid-body dynamics, soft bodies, collision detection, vehicle and character controllers, ray and sweep tests, and dynamic constraints."   ,
+        
+      
+        "tags":[
+        
+             
+             "library"
+        
+              , 
+             "physics"
+        
+              , 
+             "software"
+        
+              , 
+             "minie"
+        
+              , 
+             "blog"
+        
+        ],
+        "authors":[
+            
+                 
+                 "stephengold"
+            
+            ]
+
+    }
+
+     , 
+    {
+     
+        "date":"2019-10-16 08:00:00 +0000 UTC",
+        
+        "url":"https://jmonkeyengine.org/tutorials/grizeldi-pbr-tutorials/pbr_tutorial2/",
+        "jsonUrl":"https://jmonkeyengine.org/tutorials/grizeldi-pbr-tutorials/pbr_tutorial2/index.json",
+        "title":"Grizeldi's PBR Tutorial #2 - What are Light Probes?",
+        "uid":"0b5f62e4ae680992093adc89963b5edd",
+
+       
+        "summary":"Second part of my tutorial series in which I explain how to use jmonkeyengine\u0026rsquo;s Physically Based Rendering pipeline. In this part we answer the question what are the light probes and why do we need them.   "   ,
+        
+      
+        "tags":[
+        
+             
+             "pbr"
+        
+              , 
+             "graphics"
+        
+              , 
+             "tutorials"
+        
+              , 
+             "blog"
+        
+        ],
+        "authors":[
+            
+                 
+                 "grizeldi"
+            
+            ]
+
+    }
+
+     , 
+    {
+     
+        "date":"2019-01-18 08:00:00 +0000 UTC",
+        
+        "url":"https://jmonkeyengine.org/tutorials/grizeldi-pbr-tutorials/pbr_tutorial/",
+        "jsonUrl":"https://jmonkeyengine.org/tutorials/grizeldi-pbr-tutorials/pbr_tutorial/index.json",
+        "title":"Grizeldi's PBR Tutorial #1 - The Basics",
+        "uid":"ea73043b02c5136da4f2cc6ec19aea93",
+
+       
+        "summary":"A continuing YouTube series helping users take leap from using the regular Lighting.j3md material to PbrLighting.j3md.\n First part of my tutorial series in which I explain how to use jmonkeyengine\u0026rsquo;s Physically Based Rendering pipeline. Intended for people who already understand how to use the regular Lighting.j3md shader, but have no idea how PBR works.   "   ,
+        
+      
+        "tags":[
+        
+             
+             "pbr"
+        
+              , 
+             "graphics"
+        
+              , 
+             "tutorials"
+        
+              , 
+             "blog"
+        
+        ],
+        "authors":[
+            
+                 
+                 "grizeldi"
+            
+            ]
+
+    }
+
+
+]
+
+
+
+}

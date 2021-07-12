@@ -1,0 +1,119 @@
+{
+    "responseTitle":"jMonkeyEngine  | riccardobl",
+    "apiVersion":"1.0",
+    "response":"articlesByAuthor",
+  
+
+
+
+    "prev":"",
+
+
+    "next":"",
+
+
+
+"articles":[
+
+    
+    {
+        "date":"2020-12-13 08:00:00 +0000 UTC",
+        "url":"https://jmonkeyengine.org/communitylog/new-website/",
+        "jsonUrl":"https://jmonkeyengine.org/communitylog/new-website/index.json",
+        "title":"New Website",
+        "uid":"b1efe558ca71fb0412e8a85cd7a8ec01",
+
+        
+        "summary":"Hello.\nWe have a new website.\nThis doesn\u0026rsquo;t come to you as a surprise if you have been following this thread where for ~1 week a preview of the website has been exposed to the feedbacks of the community.\nThis is the result after integrating all your suggestions, however there is always room for improvement and feedbacks are always appreciated, so if you didn\u0026rsquo;t have a chance to voice your opinion before, feel free to do it as a reply to this post."   ,
+        
+      
+        "tags":[
+        
+             
+             "communitylog"
+        
+              , 
+             "website"
+        
+        ],
+        "authors":[
+            
+                 
+                 "riccardobl"
+            
+            ]
+
+    }
+
+     , 
+    {
+        "date":"2020-11-09 08:00:00 +0000 UTC",
+        "url":"https://jmonkeyengine.org/communitylog/community-update-donations/",
+        "jsonUrl":"https://jmonkeyengine.org/communitylog/community-update-donations/index.json",
+        "title":"Donations Update",
+        "uid":"49860e54ec2eb94ebc0dbe2566ebfda3",
+
+        
+        "summary":"Hello fellow community members, this is the promised followup of Update in the wake of recent events\nAs planned, we opted for creating a collective at opencollective.com/jmonkeyengine, since this is the most future proof and community oriented alternative out there.\n"   ,
+        
+      
+        "tags":[
+        
+             
+             "communitylog"
+        
+              , 
+             "donations"
+        
+              , 
+             "opencollective"
+        
+        ],
+        "authors":[
+            
+                 
+                 "riccardobl"
+            
+            ]
+
+    }
+
+     , 
+    {
+        "date":"2020-10-29 08:00:00 +0000 UTC",
+        "url":"https://jmonkeyengine.org/communitylog/update-in-the-wake-of-recent-events/",
+        "jsonUrl":"https://jmonkeyengine.org/communitylog/update-in-the-wake-of-recent-events/index.json",
+        "title":"Update in the wake of recent events",
+        "uid":"063097bc654cae8762bfc3c9f50eaaad",
+
+        
+        "summary":"Hello fellow community members. Probably most of you know already, but one of the team members left the community due to an internal disagreement.\nFrom his departure I took over his role, reconfigured our services to use easily redeployable docker containers, tested for different configurations and load and migrated everything to a different cloud provider with a plan that I believe is more suitable to our needs."   ,
+        
+      
+        "tags":[
+        
+             
+             "communitylog"
+        
+              , 
+             "donations"
+        
+              , 
+             "opencollective"
+        
+        ],
+        "authors":[
+            
+                 
+                 "riccardobl"
+            
+            ]
+
+    }
+
+
+]
+
+
+
+}

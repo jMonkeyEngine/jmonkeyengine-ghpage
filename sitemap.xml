@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jmonkeyengine.org/start/</loc>
+    <lastmod>2021-04-25T18:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/authors/</loc>
+    <lastmod>2021-03-11T18:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/blog/</loc>
+    <lastmod>2021-03-11T18:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/blog/</loc>
+    <lastmod>2021-03-11T18:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/interview/</loc>
+    <lastmod>2021-03-11T18:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/</loc>
+    <lastmod>2021-03-11T18:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/blog/interview-adibarda/</loc>
+    <lastmod>2021-03-11T18:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/authors/stephengold/</loc>
+    <lastmod>2021-03-11T18:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/</loc>
+    <lastmod>2021-03-11T18:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/communitylog/</loc>
+    <lastmod>2020-12-13T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/communitylog/</loc>
+    <lastmod>2020-12-13T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/communitylog/new-website/</loc>
+    <lastmod>2020-12-13T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/authors/riccardobl/</loc>
+    <lastmod>2020-12-13T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/website/</loc>
+    <lastmod>2020-12-13T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tutorials/greg-tutorials/greg-tutorials-first-scene/</loc>
+    <lastmod>2020-12-12T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/gregstutorials/</loc>
+    <lastmod>2020-12-12T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tutorials/</loc>
+    <lastmod>2020-12-12T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/tutorials/</loc>
+    <lastmod>2020-12-12T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/authors/xiii-code/</loc>
+    <lastmod>2020-12-12T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tutorials/greg-tutorials/greg-tutorials-getting-started/</loc>
+    <lastmod>2020-12-04T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/donations/</loc>
+    <lastmod>2020-11-09T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/communitylog/community-update-donations/</loc>
+    <lastmod>2020-11-09T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/opencollective/</loc>
+    <lastmod>2020-11-09T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/communitylog/update-in-the-wake-of-recent-events/</loc>
+    <lastmod>2020-10-29T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/devlog/</loc>
+    <lastmod>2020-05-10T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/devlog/</loc>
+    <lastmod>2020-05-10T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/authors/itsmike54/</loc>
+    <lastmod>2020-05-10T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/devlog/jme332/</loc>
+    <lastmod>2020-05-10T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/release/</loc>
+    <lastmod>2020-05-10T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/blog/interview-danielp/</loc>
+    <lastmod>2020-02-25T18:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/blog/interview-jayfella/</loc>
+    <lastmod>2020-02-15T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/library/</loc>
+    <lastmod>2020-02-09T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/minie/</loc>
+    <lastmod>2020-02-09T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/blog/minie14/</loc>
+    <lastmod>2020-02-09T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/physics/</loc>
+    <lastmod>2020-02-09T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/software/</loc>
+    <lastmod>2020-02-09T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/showcase/mythruna/</loc>
+    <lastmod>2019-10-16T08:27:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/mythruna/</loc>
+    <lastmod>2019-10-16T08:27:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/authors/pspeed42/</loc>
+    <lastmod>2019-10-16T08:27:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/showcase/</loc>
+    <lastmod>2019-10-16T08:27:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/showcase/</loc>
+    <lastmod>2019-10-16T08:27:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/authors/frozenshade666/</loc>
+    <lastmod>2019-10-16T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/graphics/</loc>
+    <lastmod>2019-10-16T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/authors/grizeldi/</loc>
+    <lastmod>2019-10-16T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tutorials/grizeldi-pbr-tutorials/pbr_tutorial2/</loc>
+    <lastmod>2019-10-16T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/pbr/</loc>
+    <lastmod>2019-10-16T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/showcase/skullstone/</loc>
+    <lastmod>2019-10-16T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/skullstone/</loc>
+    <lastmod>2019-10-16T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/authors/jeddic/</loc>
+    <lastmod>2019-10-15T06:27:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/showcase/ls_frontier/</loc>
+    <lastmod>2019-10-15T06:27:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/lightspeed-frontier/</loc>
+    <lastmod>2019-10-15T06:27:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/authors/moffkalast/</loc>
+    <lastmod>2019-10-15T06:27:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/authors/poshdan/</loc>
+    <lastmod>2019-10-15T06:27:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/showcase/spoxel/</loc>
+    <lastmod>2019-10-15T06:27:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/spoxel/</loc>
+    <lastmod>2019-10-15T06:27:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/steam/</loc>
+    <lastmod>2019-10-15T06:27:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tags/asset-store/</loc>
+    <lastmod>2019-10-08T06:27:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/authors/jayfella/</loc>
+    <lastmod>2019-10-08T06:27:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/communitylog/new-store/</loc>
+    <lastmod>2019-10-08T06:27:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/tutorials/grizeldi-pbr-tutorials/pbr_tutorial/</loc>
+    <lastmod>2019-01-18T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/contribute/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/docs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/features/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jmonkeyengine.org/license/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

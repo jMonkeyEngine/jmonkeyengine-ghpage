@@ -1,0 +1,36 @@
+{
+    "responseTitle":"jMonkeyEngine  | Greg's Tutorial 01 - Getting Started",
+    "apiVersion":"1.0",
+    "response":"defaultEntry",
+    "uid":"413dfb5be11d2b07c633d1fac5b9b671",
+
+    "title":"Greg's Tutorial 01 - Getting Started",
+    "content":"\u003cp\u003eHere\u0026rsquo;s a new tutorial serie about jMonkeyEngine that i\u0026rsquo;m using for one of my games.\u003c/p\u003e\n\n\u003cdiv style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\"\u003e\n  \u003ciframe src=\"https://www.youtube.com/embed/MWB0h9U6bxA\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"\u003e\u003c/iframe\u003e\n\u003c/div\u003e\n\n\u003cp\u003e\u003ca href=\"/tags/gregstutorials\"\u003eFollow the serie at #gregstutorials\u003c/a\u003e\u003c/p\u003e\n",
+    "contentPlain":"Here\u0026rsquo;s a new tutorial serie about jMonkeyEngine that i\u0026rsquo;m using for one of my games.\n  Follow the serie at #gregstutorials\n" ,
+    "url":"https://jmonkeyengine.org/tutorials/greg-tutorials/greg-tutorials-getting-started/",
+
+
+    
+    "summary":"Here\u0026rsquo;s a new tutorial serie about jMonkeyEngine that i\u0026rsquo;m using for one of my games.\n  Follow the serie at #gregstutorials"   ,
+    
+    "tags":[
+        
+             
+             "gregstutorials"
+        
+              , 
+             "tutorials"
+        
+              , 
+             "blog"
+        
+        ],
+        "authors":[
+            
+                 
+                 "XIII-code"
+            
+            ]
+
+
+}

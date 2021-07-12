@@ -1,0 +1,36 @@
+{
+    "responseTitle":"jMonkeyEngine  | Greg's Tutorial 02 - First Scene",
+    "apiVersion":"1.0",
+    "response":"defaultEntry",
+    "uid":"200e5729fa02f52b1ad6fcc6e5179225",
+
+    "title":"Greg's Tutorial 02 - First Scene",
+    "content":"\u003cp\u003eIn this second part, we will learn how to import a model, how to use the scene composer and the terrain editor, as well as adding a sky and lights.\u003c/p\u003e\n\n\u003cdiv style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\"\u003e\n  \u003ciframe src=\"https://www.youtube.com/embed/Ow6te57Bq4Y\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"\u003e\u003c/iframe\u003e\n\u003c/div\u003e\n\n\u003cp\u003e\u003ca href=\"/tags/gregstutorials\"\u003eFollow the serie at #gregstutorials\u003c/a\u003e\u003c/p\u003e\n",
+    "contentPlain":"In this second part, we will learn how to import a model, how to use the scene composer and the terrain editor, as well as adding a sky and lights.\n  Follow the serie at #gregstutorials\n" ,
+    "url":"https://jmonkeyengine.org/tutorials/greg-tutorials/greg-tutorials-first-scene/",
+
+
+    
+    "summary":"In this second part, we will learn how to import a model, how to use the scene composer and the terrain editor, as well as adding a sky and lights.\n  Follow the serie at #gregstutorials"   ,
+    
+    "tags":[
+        
+             
+             "tutorials"
+        
+              , 
+             "gregstutorials"
+        
+              , 
+             "blog"
+        
+        ],
+        "authors":[
+            
+                 
+                 "XIII-code"
+            
+            ]
+
+
+}
